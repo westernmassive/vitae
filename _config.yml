@@ -7,27 +7,26 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
+url: http://westernmassive.github.io/vitae
 author: Zach Conley
 
 # edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
 title: Zachary Conley
 name: Zachary Conley
 email: zsconley@gmail.com
 email_full: mailto:zsconley@gmail.com
-website: github.io/sustain
+website: zsconley.github.io
 website_full: https://zsconley.github.io/resume
 github: zsconley
-twitter: twitter
+twitter: zsconley
 tel: 401-368-4977
 google_maps: 'https://www.google.com/maps/place/Providence,+RI/@41.8240073,-71.4139727,14z/data=!4m2!3m1!1s0x89e444e0437e735d:0x69df7c4d48b3b627'
 address: 3 Davol Square
 postcode: 02903
 city: Providence
-country: US
+country: United States
 google_analytics: 
 
 # needed for travis-ci build
